@@ -1,0 +1,11 @@
+OpenAI package is required.
+install langchain package
+streamlit in virtual env
+python-dotenv
+PyPDF2
+
+Install all the package
+
+Create file in the env is setup.py
+Create folder SRC and inside create a file __init__.py
+Create folder mcgenerator and inside create a file __init__.py
